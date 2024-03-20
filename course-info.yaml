@@ -1,0 +1,16 @@
+type: hyperskill
+title: Flashcards (Python)
+language: English
+summary: "<div><div class=\"alert alert-primary\">You will practice concepts frequently\
+  \ tested in technical interviews at top tech companies.</div>\r\n<p>When learning\
+  \ a new language, it can be hard to remember all the new vocabulary, which is exactly\
+  \ where flashcards can help. Typically, flashcards show a hint (a task or a picture)\
+  \ on one side and the right answer on the other. Flashcards can be used to remember\
+  \ any sort of data, so if you want to create a useful tool to help your learning\
+  \ and your programming skills, this project is for you.</p></div><br/><br/>Learn\
+  \ more at <a href=\"https://hyperskill.org/projects/127?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
+  >https://hyperskill.org/projects/127</a>"
+programming_language: Python
+content:
+  - Flashcards (Python)
+mode: Study
